@@ -1,0 +1,19 @@
+Start: Sun, 10 May 2015 15:00:00 -0500
+End: Sun, 10 May 2015 19:15:00 -0500
+Tasks: Finalized Input Validation and Tested Program
+
+Start: Sun, 10 May 2015 08:30:00 -0500
+End: Sun, 10 May 2015 11:15:00 -0500
+Tasks: Wrote code to filter results
+
+Start: Sat, 09 May 2015 13:30:00 -0500
+End: Sat, 09 May 2015 20:00:00 -0500
+Tasks: Wrote code to update database using POST and GET Data
+
+Start: Sat, 09 May 2015 08:30:00 -0500
+End: Sat, 09 May 2015 11:15:00 -0500
+Tasks: Wrote to code to utilize database and add / remove data
+
+Start: Fri, 08 May 2015 15:30:00 -0500
+End: Fri, 08 May 2015 18:15:00 -0500
+Tasks: Attempted to login to database and perform queries
